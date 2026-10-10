@@ -1,0 +1,2 @@
+# qwen-exercise
+exercise app
