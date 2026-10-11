@@ -1,5 +1,26 @@
+# Dependencies
 node_modules/
-.next/
+
+# Build output (built by GitHub Actions)
 dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.next/
 build/
 *.log
